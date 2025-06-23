@@ -17,3 +17,8 @@ function employeDetail(...employe){
     console.log(employe)
 }
 employeDetail(employe)
+
+// table printing of 6
+for(let i=1; i<=10; i++){
+    console.log(i*6)
+}
