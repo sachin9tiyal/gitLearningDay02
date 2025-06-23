@@ -30,3 +30,7 @@ console.log(empSalary);
 // // newPayment update add up
 const accoutNumber = 12345665434
 const holderName = "Raja"
+
+function greetUser(name) {
+  console.log("Hello, " + name + "! Welcome to JavaScript.");
+}
