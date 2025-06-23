@@ -5,3 +5,5 @@ const employe = {
     salary: `${25}LPA`,
     Company: "PVT LTD",
 }
+console.log(employe.name)
+console.log(employe.role)
