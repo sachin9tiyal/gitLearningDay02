@@ -12,3 +12,7 @@ const empSalary=['20k', '30k', '40k', '50k']
 for(let i of empSalary){
     console.log(i)
 }
+// // new_feature file(branch)
+function employeDetail(...employe){
+    console.log(employe)
+}
