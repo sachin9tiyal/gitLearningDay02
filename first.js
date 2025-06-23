@@ -40,3 +40,8 @@ const newobj = {
     age: "done",
     carrier: "finish"
 }
+
+console.log(newobj.name)
+console.log(newobj.age);
+
+
