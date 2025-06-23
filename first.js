@@ -25,3 +25,5 @@ for(let i=1; i<=10; i++){
 
 // // new updation in code
 console.log(`hello ${employe.name}! how are you`)
+
+console.log(empSalary);
