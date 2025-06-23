@@ -27,3 +27,6 @@ for(let i=1; i<=10; i++){
 console.log(`hello ${employe.name}! how are you`)
 
 console.log(empSalary);
+// // newPayment update add up
+const accoutNumber = 12345665434
+const holderName = "Raja"
