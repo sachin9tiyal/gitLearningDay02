@@ -22,3 +22,6 @@ employeDetail(employe)
 for(let i=1; i<=10; i++){
     console.log(i*6)
 }
+
+// // new updation in code
+console.log(`hello ${employe.name}! how are you`)
