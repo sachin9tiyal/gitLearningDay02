@@ -34,3 +34,9 @@ const holderName = "Raja"
 function greetUser(name) {
   console.log("Hello, " + name + "! Welcome to JavaScript.");
 }
+
+const newobj = {
+    name: "nothing",
+    age: "done",
+    carrier: "finish"
+}
