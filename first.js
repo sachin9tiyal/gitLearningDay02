@@ -16,3 +16,4 @@ for(let i of empSalary){
 function employeDetail(...employe){
     console.log(employe)
 }
+employeDetail(employe)
